@@ -9,7 +9,7 @@ let db = mongoose.connection;
 
 db.on('error', console.log.bind(console, 'connection error'));
 db.once('open', () => {
-  console.log('Conexão feita concluida sucesso!')
+  console.log('Conexão feita concluida sucesso!!!')
 });
 
 const clientes = require('./routes/clientesRoute');
