@@ -1,1 +1,7 @@
-# Reprograma-Semana-13-Integra-o-API-BD
+# Reprograma Semana 13 Integracao API-BD
+
+
+ -  POST/clientes
+ -  GET/clientes
+ -  GET/clientes/compradores
+ -  GET/clientes/{cpf}
