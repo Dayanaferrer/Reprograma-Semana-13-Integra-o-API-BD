@@ -1,0 +1,26 @@
+{
+  "name": "Reprograma-Semana-13-Integra-o-API-BD",
+  "version": "1.0.0",
+  "description": "-  POST/clientes\r  -  GET/clientes\r  -  GET/clientes/compradores\r  -  GET/clientes/{cpf}",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/Reprograma-Semana-13-Integra-o-API-BD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/Reprograma-Semana-13-Integra-o-API-BD/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/Reprograma-Semana-13-Integra-o-API-BD#readme"
+}
